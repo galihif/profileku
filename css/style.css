@@ -70,6 +70,14 @@ section {
 	padding: 40px;
 }
 
+#info h3, #info h1, #about h2, #contact h2 {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+p {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
 	/*SECTION HERO*/
 #hero {
 	display: flex;
@@ -80,9 +88,6 @@ section {
 	color: black;
 }
 
-#info h3, #info h1 {
-	font-family: 'Oswald', sans-serif;
-}
 
 #info p{
 	padding-right: 24px;
@@ -97,8 +102,10 @@ section {
 }
 
 #gambar img {
-	width: 65%;
-	padding-bottom: 20px;
+	width: 80%;
+	border-radius: 20px;
+	margin-left: 100px;
+	margin-top: 110px;
 
 }
 	/*SECTION HERO*/
